@@ -1,0 +1,25 @@
+{
+  "name": "givechain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaia-nyoung/Givechain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Kaia-nyoung/Givechain/issues"
+  },
+  "homepage": "https://github.com/Kaia-nyoung/Givechain#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-mocha-ethers": "^4.0.0",
+    "hardhat": "^3.21.1"
+  }
+}
